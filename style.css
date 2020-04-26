@@ -1,0 +1,15 @@
+.parallax {
+    background-image: url("Assets/webpic1.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#inspire{
+    background-image: url("Assets/webpic1.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
